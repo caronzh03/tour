@@ -1,1 +1,2 @@
 This repo is to test github integration with Jenkins.
+Step 1. Trigger Jenkins job on Pull Request.
